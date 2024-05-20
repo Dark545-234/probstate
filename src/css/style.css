@@ -1,0 +1,10 @@
+    body{
+        font-family: 'Roboto', sans-serif;
+        color: white;
+        background: linear-gradient(to top right, #488f63 0%, #5f77ec 100%);
+    }
+
+    #canvas-svg {
+        background-color: white;
+    }
+    
